@@ -23,7 +23,7 @@ public class GridWorld extends JPanel {
     Color colorExcelente = Color.GREEN;
     Color colorMalo = Color.RED;
     Color colorNormal = Color.LIGHT_GRAY;
-    Color colorPozo = Color.BLACK;
+    Color colorPozo = Color.BLACK;//El pozo es de color negro
     Color colorFinal = Color.BLUE;
     Color colorCamino = Color.CYAN;
     Color colorAgente = Color.WHITE;
